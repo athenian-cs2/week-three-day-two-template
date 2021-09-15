@@ -13,7 +13,7 @@ public class MyMain {
 
     // This method is given two chars as input, c1 and c2
     // The method should print out the chars between c1 and c2
-    // You can assume that c2 will always come after c2
+    // You can assume that c2 will always come after c1
     // Ex. printChars('b', 'g') => 'b'
     //                             'c'
     //                             'd'

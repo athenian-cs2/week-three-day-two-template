@@ -1,6 +1,6 @@
-# Week Three Day One: Modulo
+# Week Three Day Two: Chars
 
-This is a repository where you can write your code for today. You can also take notes in here if you wish. Please submit (commit and push) your code at the end of class, but note that your code will not be graded. 
+This is a repository where you can write your code for today. You can also take notes in here if you wish. Please submit (commit and push) your code at the end of class, but note that **your code will not be graded for correctness**. 
 
 <br />
 <br />
